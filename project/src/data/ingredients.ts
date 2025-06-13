@@ -3,12 +3,12 @@ import { Ingredient } from '../types';
 export const ingredients: Ingredient[] = [
   // Proteins
   {
-    id: 'beef-patty',
-    name: 'Beef Patty',
+    id: 'Mutton-patty',
+    name: 'Mutton Patty',
     price: 4.50,
     category: 'protein',
     image: 'https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=400',
-    description: 'Premium grass-fed beef patty',
+    description: 'Premium grass-fed Mutton patty',
     calories: 280,
     available: true
   },
