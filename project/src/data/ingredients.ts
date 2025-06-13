@@ -163,7 +163,7 @@ export const ingredients: Ingredient[] = [
   {
     id: 'bacon',
     name: 'Crispy Bacon',
-    price: Rs-299,
+    price: 299,
     category: 'extra',
     image: 'https://images.pexels.com/photos/1588473/pexels-photo-1588473.jpeg?auto=compress&cs=tinysrgb&w=400',
     description: 'Perfectly crispy bacon strips',
