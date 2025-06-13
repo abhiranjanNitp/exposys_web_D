@@ -5,7 +5,7 @@ export const ingredients: Ingredient[] = [
   {
     id: 'Mutton-patty',
     name: 'Mutton Patty',
-    price: 0.9,
+    price: 4.50,
     category: 'protein',
     image: 'https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=400',
     description: 'Premium grass-fed Mutton patty',
@@ -163,7 +163,7 @@ export const ingredients: Ingredient[] = [
   {
     id: 'bacon',
     name: 'Crispy Bacon',
-    price: 0.50,
+    price: 2.50,
     category: 'extra',
     image: 'https://images.pexels.com/photos/1588473/pexels-photo-1588473.jpeg?auto=compress&cs=tinysrgb&w=400',
     description: 'Perfectly crispy bacon strips',
