@@ -4,10 +4,10 @@ export const signatureBurgers: BurgerItem[] = [
   {
     id: 'classic-brrr',
     name: 'The Classic Brrr',
-    description: 'Our signature burger with beef patty, cheddar, lettuce, tomato, and special sauce',
+    description: 'Our signature burger with chicken patty, cheddar, lettuce, tomato, and special sauce',
     basePrice: 8.99,
     image: 'https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=500',
-    defaultIngredients: ['beef-patty', 'cheddar', 'lettuce', 'tomato', 'onion', 'mayo', 'ketchup'],
+    defaultIngredients: ['Mutton-patty', 'cheddar', 'lettuce', 'tomato', 'onion', 'mayo', 'ketchup'],
     category: 'signature',
     rating: 4.8,
     popular: true
@@ -15,10 +15,10 @@ export const signatureBurgers: BurgerItem[] = [
   {
     id: 'bacon-deluxe',
     name: 'Bacon Deluxe',
-    description: 'Double beef patty with crispy bacon, swiss cheese, and BBQ sauce',
+    description: 'Double chicken patty with crispy bacon, swiss cheese, and BBQ sauce',
     basePrice: 12.99,
     image: 'https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=500',
-    defaultIngredients: ['beef-patty', 'bacon', 'swiss', 'lettuce', 'tomato', 'bbq', 'mayo'],
+    defaultIngredients: ['Chicken-patty', 'bacon', 'swiss', 'lettuce', 'tomato', 'bbq', 'mayo'],
     category: 'premium',
     rating: 4.9,
     popular: true
@@ -48,10 +48,10 @@ export const signatureBurgers: BurgerItem[] = [
   {
     id: 'spicy-heat',
     name: 'Spicy Heat',
-    description: 'Beef patty with jalapeños, pepper jack, and spicy sauce',
+    description: 'Mutton patty with jalapeños, pepper jack, and spicy sauce',
     basePrice: 9.99,
     image: 'https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=500',
-    defaultIngredients: ['beef-patty', 'cheddar', 'lettuce', 'tomato', 'onion', 'hot-sauce', 'mayo'],
+    defaultIngredients: ['Mutton-patty', 'cheddar', 'lettuce', 'tomato', 'onion', 'hot-sauce', 'mayo'],
     category: 'signature',
     rating: 4.5,
     popular: false
@@ -59,10 +59,10 @@ export const signatureBurgers: BurgerItem[] = [
   {
     id: 'blue-cheese-special',
     name: 'Blue Cheese Special',
-    description: 'Premium beef with blue cheese, bacon, and caramelized onions',
+    description: 'Premium mutton with blue cheese, bacon, and caramelized onions',
     basePrice: 13.99,
     image: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=500',
-    defaultIngredients: ['beef-patty', 'blue-cheese', 'bacon', 'lettuce', 'onion', 'mayo'],
+    defaultIngredients: ['mutton-patty', 'blue-cheese', 'bacon', 'lettuce', 'onion', 'mayo'],
     category: 'premium',
     rating: 4.8,
     popular: true
